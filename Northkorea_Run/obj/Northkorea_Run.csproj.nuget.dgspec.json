@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\natep\\OneDrive\\Desktop\\C#\\Northkorea_Run\\Northkorea_Run.csproj": {}
+    "C:\\Users\\natep\\OneDrive\\Desktop\\Northkorea Run Projekt\\Northkorea-Run-Projekt\\Northkorea_Run\\Northkorea_Run.csproj": {}
   },
   "projects": {
-    "C:\\Users\\natep\\OneDrive\\Desktop\\C#\\Northkorea_Run\\Northkorea_Run.csproj": {
+    "C:\\Users\\natep\\OneDrive\\Desktop\\Northkorea Run Projekt\\Northkorea-Run-Projekt\\Northkorea_Run\\Northkorea_Run.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\natep\\OneDrive\\Desktop\\C#\\Northkorea_Run\\Northkorea_Run.csproj",
+        "projectUniqueName": "C:\\Users\\natep\\OneDrive\\Desktop\\Northkorea Run Projekt\\Northkorea-Run-Projekt\\Northkorea_Run\\Northkorea_Run.csproj",
         "projectName": "Northkorea_Run",
-        "projectPath": "C:\\Users\\natep\\OneDrive\\Desktop\\C#\\Northkorea_Run\\Northkorea_Run.csproj",
+        "projectPath": "C:\\Users\\natep\\OneDrive\\Desktop\\Northkorea Run Projekt\\Northkorea-Run-Projekt\\Northkorea_Run\\Northkorea_Run.csproj",
         "packagesPath": "C:\\Users\\natep\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\natep\\OneDrive\\Desktop\\C#\\Northkorea_Run\\obj\\",
+        "outputPath": "C:\\Users\\natep\\OneDrive\\Desktop\\Northkorea Run Projekt\\Northkorea-Run-Projekt\\Northkorea_Run\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

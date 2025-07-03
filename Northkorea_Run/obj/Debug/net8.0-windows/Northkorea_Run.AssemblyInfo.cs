@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Northkorea_Run")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d50887c2465341ba2d82b7e580803e1b56364949")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbf835badf0ee37de423c99a98255de2904a999e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Northkorea_Run")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Northkorea_Run")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

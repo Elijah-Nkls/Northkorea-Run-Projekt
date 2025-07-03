@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\natep\\OneDrive\\Desktop\\Northkorea Run\\Northkorea-Run-Projekt\\Northkorea_Run\\",
+  "WorkspaceRootPath": "C:\\Users\\natep\\OneDrive\\Desktop\\Northkorea Run Projekt\\Northkorea-Run-Projekt\\Northkorea_Run\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1DDA5CFD-9FF0-4BFE-B947-A88851FD8F15}|Northkorea_Run.csproj|c:\\users\\natep\\onedrive\\desktop\\northkorea run\\northkorea-run-projekt\\northkorea_run\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1DDA5CFD-9FF0-4BFE-B947-A88851FD8F15}|Northkorea_Run.csproj|c:\\users\\natep\\onedrive\\desktop\\northkorea run projekt\\northkorea-run-projekt\\northkorea_run\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDA5CFD-9FF0-4BFE-B947-A88851FD8F15}|Northkorea_Run.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA5CFD-9FF0-4BFE-B947-A88851FD8F15}|Northkorea_Run.csproj|c:\\users\\natep\\onedrive\\desktop\\northkorea run projekt\\northkorea-run-projekt\\northkorea_run\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1DDA5CFD-9FF0-4BFE-B947-A88851FD8F15}|Northkorea_Run.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -23,10 +27,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\natep\\OneDrive\\Desktop\\Northkorea Run\\Northkorea-Run-Projekt\\Northkorea_Run\\Form1.cs",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\natep\\OneDrive\\Desktop\\Northkorea Run Projekt\\Northkorea-Run-Projekt\\Northkorea_Run\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\natep\\OneDrive\\Desktop\\Northkorea Run\\Northkorea-Run-Projekt\\Northkorea_Run\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\natep\\OneDrive\\Desktop\\Northkorea Run Projekt\\Northkorea-Run-Projekt\\Northkorea_Run\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T22:05:57.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\natep\\OneDrive\\Desktop\\Northkorea Run Projekt\\Northkorea-Run-Projekt\\Northkorea_Run\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\natep\\OneDrive\\Desktop\\Northkorea Run Projekt\\Northkorea-Run-Projekt\\Northkorea_Run\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T21:53:22.312Z",

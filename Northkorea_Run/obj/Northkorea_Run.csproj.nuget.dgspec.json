@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\natep\\OneDrive\\Desktop\\Northkorea Run Projekt\\Northkorea-Run-Projekt\\Northkorea_Run\\Northkorea_Run.csproj": {}
+    "C:\\Informatik\\infoprojekt12.2.2\\GDI+\\Northkorea-Run-Projekt\\Northkorea_Run\\Northkorea_Run.csproj": {}
   },
   "projects": {
-    "C:\\Users\\natep\\OneDrive\\Desktop\\Northkorea Run Projekt\\Northkorea-Run-Projekt\\Northkorea_Run\\Northkorea_Run.csproj": {
+    "C:\\Informatik\\infoprojekt12.2.2\\GDI+\\Northkorea-Run-Projekt\\Northkorea_Run\\Northkorea_Run.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\natep\\OneDrive\\Desktop\\Northkorea Run Projekt\\Northkorea-Run-Projekt\\Northkorea_Run\\Northkorea_Run.csproj",
+        "projectUniqueName": "C:\\Informatik\\infoprojekt12.2.2\\GDI+\\Northkorea-Run-Projekt\\Northkorea_Run\\Northkorea_Run.csproj",
         "projectName": "Northkorea_Run",
-        "projectPath": "C:\\Users\\natep\\OneDrive\\Desktop\\Northkorea Run Projekt\\Northkorea-Run-Projekt\\Northkorea_Run\\Northkorea_Run.csproj",
-        "packagesPath": "C:\\Users\\natep\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\natep\\OneDrive\\Desktop\\Northkorea Run Projekt\\Northkorea-Run-Projekt\\Northkorea_Run\\obj\\",
+        "projectPath": "C:\\Informatik\\infoprojekt12.2.2\\GDI+\\Northkorea-Run-Projekt\\Northkorea_Run\\Northkorea_Run.csproj",
+        "packagesPath": "C:\\Users\\songb\\.nuget\\packages\\",
+        "outputPath": "C:\\Informatik\\infoprojekt12.2.2\\GDI+\\Northkorea-Run-Projekt\\Northkorea_Run\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\natep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\songb\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -59,15 +55,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
